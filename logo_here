@@ -33,7 +33,7 @@
 </head>  
 <body>  
     <div class="header">  
-        <img src="https://your-image-url.com/logo.png" alt="Company Logo" class="logo" />  
+        <img src="logo shadow.png" alt="Company Logo" class="logo" />  
         <h1>Welcome to My Website</h1>  
     </div>  
     <div class="content">  
